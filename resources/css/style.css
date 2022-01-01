@@ -1,0 +1,50 @@
+/*Global styles*/
+body {
+    background-color: black;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+#main-content h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#main-content p {
+    font-size: 27px;
+    color: gray;
+}
+
+#release-info h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
+
+.link a{
+    transition: 0.5s;
+    font-size: 16px;
+}
+
+.link a:link {
+    color: aquamarine;
+}
+
+.link a:visited {
+    color: rgb(16, 122, 91);
+}
+
+.link a:hover {
+    color: whitesmoke;
+}
